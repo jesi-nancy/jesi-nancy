@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Medicare Plus** — a full-stack Vue.js project for a medical service platform  
+- 🔭 I’m currently working on **shoe carnival** — a full-stack Vue.js project for a e-commerce platform  
 - 🌱 I’m currently learning **Frontend Web Developer**
 - 📫 Reach me: **[josephjesinanancy@gmail.com](mailto:josephjesinanancy@gmail.com)**
 
